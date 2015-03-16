@@ -20,8 +20,8 @@ Los módulos SPI que pueden acoplarse son el NRF24L01 y NRF905.
 Al tener Arduino un sólo puerto serie, únicamente se puede utilizar un módulo de comunicaciones serie a la vez, en cambio los que usan el puerto spi pueden ser utilizados al mismo tiempo.
 
 Además la shield incorpora dos formas de conexión para ampliar la lista de módulos:
--Una aprovechando el zócalo para xbee, que puede ser activada o desactivada por un switch de 8 posiciones.
--Otra mediante un zócalo diseñado para placas de topos.
+- Aprovechando el zócalo para xbee, que puede ser activada o desactivada por un switch de 8 posiciones.
+- Mediante un zócalo diseñado para placas de topos.
 
 Lista de materiales
 ___________________
